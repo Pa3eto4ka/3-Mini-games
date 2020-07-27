@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main menu.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/What is script need to play code/What is script need to play
+      code.unity
+    guid: aa311cdc10274ab46952b1f700222669
+  - enabled: 1
+    path: Assets/Scenes/What is script need to play code/Script 1.unity
+    guid: 15efefb04d3b55643a015e7efa6bbb4d
+  - enabled: 1
+    path: Assets/Scenes/What is script need to play code/Script 2.unity
+    guid: abc96e38fa8377947994b6879d2fe1c0
+  - enabled: 1
+    path: Assets/Scenes/What is displayed on screen/What is displayed on screen.unity
+    guid: 652e0b8e2066c6644b0bb70baf74e1a3
+  - enabled: 1
+    path: Assets/Scenes/What is displayed on screen/Code 1.unity
+    guid: 739e17cadee7d6c4fa3fe1fd63deb30f
+  - enabled: 1
+    path: Assets/Scenes/What is displayed on screen/Code 2.unity
+    guid: e0e985aa5ea375c44878ab199e187ef9
+  - enabled: 1
+    path: Assets/Scenes/What is displayed on screen/Code 3.unity
+    guid: 52c181b459bd138459d7ec6d5cea7460
+  - enabled: 1
+    path: Assets/Scenes/What is displayed on screen/Code 4.unity
+    guid: 5c6ffba8147249d4abd51c8dddbe8fac
+  - enabled: 1
+    path: Assets/Scenes/What is displayed on screen/Code 5.unity
+    guid: 5c41722132d394c4fa5e4ecef64bd68f
+  - enabled: 1
+    path: Assets/Scenes/What is displayed on screen/All Level On Screen Excellent.unity
+    guid: f62fa7b5d01f30e419c7dcb554d28647
+  - enabled: 1
+    path: Assets/Scenes/The puzzles in programming and computer science/The puzzles
+      in programming and computer science.unity
+    guid: 50eb2bbe3c92fbe429a822919d510a81
+  - enabled: 1
+    path: Assets/Scenes/The puzzles in programming and computer science/Puzzle 1.unity
+    guid: d28a4bc0153175848b572951008c8bc8
+  - enabled: 1
+    path: Assets/Scenes/The puzzles in programming and computer science/Puzzle 2.unity
+    guid: 69b0a2a46bed5044a8bcc31333def97d
+  - enabled: 1
+    path: Assets/Scenes/The puzzles in programming and computer science/Puzzle 3.unity
+    guid: 08d437cc3758c7c4186228cbc48a54b8
+  m_configObjects: {}
