@@ -1,6 +1,0 @@
-sceneSetups:
-- path: Assets/Scenes/The puzzles in programming and computer science/All level on
-    puzzles excellent.unity
-  isLoaded: 1
-  isActive: 1
-  isSubScene: 0
